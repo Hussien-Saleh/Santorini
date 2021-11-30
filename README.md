@@ -1,4 +1,4 @@
-# Santorini,
+# Santorini
 
 A two-player strategy board game based on object-oriented design, where each player aims climbing a tower of 3 tiles. 
 The board is a standard 5 × 5 chessboard. The game starts with each player having 2 pieces placed on the board.
