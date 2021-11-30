@@ -1,5 +1,6 @@
-# Santorini, a two-player strategy board game based on object-oriented design, where each player aims climbing a tower of 3 tiles. 
+#Santorini,
 
+A two-player strategy board game based on object-oriented design, where each player aims climbing a tower of 3 tiles. 
 The board is a standard 5 × 5 chessboard. The game starts with each player having 2 pieces placed on the board.
 The 2 players alternate at moving their pieces in one or more of the three lines of action: vertical, horizontal, and diagonal. 
 After moving a piece, a player should place a tile next to the new location of the just moved piece. 
