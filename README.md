@@ -1,20 +1,20 @@
-# Santorini
+## Santorini
 
-A two-player strategy board game based on object-oriented design, where each player aims climbing a tower of 3 tiles. 
+A **two-player strategy board game based on object-oriented design**, where each player aims climbing a tower of 3 tiles. 
 The board is a standard 5 × 5 chessboard. The game starts with each player having 2 pieces placed on the board.
 The 2 players alternate at moving their pieces in one or more of the three lines of action: vertical, horizontal, and diagonal. 
 After moving a piece, a player should place a tile next to the new location of the just moved piece. 
 Pieces can jump on tiles according to some rules. The player who succeeds in bringing one of their tiles on top of a 3 tiles tower wins.
 
-The following video explains the game in detail: https://www.youtube.com/watch?v=JmPzVjdweYI#t= 0m59s
+**The following video explains the game in detail:** https://www.youtube.com/watch?v=JmPzVjdweYI#t= 0m59s
 
 The difference is Santorini allows players to select between exactly two types of pieces, Cubes and Pyramids. 
 Both players can have different, or the same types of pieces. 
-Cubes can only move horizontally and vertically. Pyramids, on the other hand, can only move diagonally as shown below.
-Both types of pieces can place tiles on the 3 lines of actions as shown below:
+**Cubes** can only move horizontally and vertically. **Pyramids**, on the other hand, can only move diagonally.
+Both types of pieces can place tiles on the 3 lines of actions.
 
 
-Rules:
+**Rules:**
 
 • The locations (0,0) is the upper left corner. (4,4) is the lower right corner.
 • Every cell in the board has a level. Initially all cells have level 0. Placing a tile on a cell raises its
